@@ -1,5 +1,5 @@
 import React from 'react'
-// import './Header.css';
+import './SelectedCurrency.css';
 
 export default function SelectedCurrency(props) {
     const {
@@ -8,7 +8,7 @@ export default function SelectedCurrency(props) {
         onChangeCurrency,
     } = props
     return (
-        <div>
+        <div className = "button-submit">
             <select value={selectedCurrency} onChange={onChangeCurrency}>
               {currencyOptions.map(option =>(
                 <option value={option}>{option}</option>

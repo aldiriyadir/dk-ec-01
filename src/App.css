@@ -25,11 +25,31 @@ body{
   display: flex;
   align-items:center;
   justify-content: center;
-  background-color: darkgray;
+  padding: 1vh;
 }
 
 .buttonplus{
   align-items:center;
   justify-content: center;
   align-items: center;
+}
+
+.Card{
+  padding: 1vh;
+  margin: 1vh;
+  border: 1px solid black;
+  border-radius: 5px;
+  display: flex;
+  align-items:center;
+  justify-content:space-between;
+}
+
+.button-submit{
+  width: 20vh;
+  padding: 1vh;
+  margin: 1vh;
+  display: flex;
+  align-items:center;
+  justify-content:space-between;
+  /* background-color: aqua; */
 }
