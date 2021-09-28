@@ -1,0 +1,28 @@
+.form-name{
+    margin: 0;
+    padding: 0;
+    padding-top: 1vh;
+    padding-left: 1vh;
+    padding-right: 10vh;
+    font-size: small;
+    align-items: flex-start;
+    justify-content: start;
+    /* background-color:burlywood; */
+  }
+  
+  .code-price{
+    padding-left: 1vh;
+    padding-right: 1vh;
+    font-weight: 500;
+    display: flex;
+    justify-content:space-between;
+    align-items:center;
+    /* background-color: brown; */
+  }
+  
+  .input{
+    /* border: 0px; */
+    width: 6em;
+    text-align: center;
+    font-weight: 500;
+  }

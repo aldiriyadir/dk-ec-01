@@ -16,28 +16,20 @@ body{
   border-radius: 5px;
 }
 
-.form-name{
-  margin: 0;
-  padding: 0;
-  padding-left: 1vh;
-  padding-right: 5vh;
-  font-size: small;
-  align-items: flex-start;
-  justify-content: start;
-  /* background-color:burlywood; */
+.line{
+  background-color: darkgray;
+  height: 2px
 }
 
-.code-price{
-  padding-left: 1vh;
-  padding-right: 1vh;
-  font-weight: 500;
+.form-plus{
   display: flex;
-  justify-content:space-between;
   align-items:center;
-  /* background-color: brown; */
+  justify-content: center;
+  background-color: darkgray;
 }
 
-.input{
-  border: 0px;
-  width: 7em;
+.buttonplus{
+  align-items:center;
+  justify-content: center;
+  align-items: center;
 }
