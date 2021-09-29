@@ -60,7 +60,7 @@ function App() {
   }
 
   function deleteplusCurrency(id) {
-    let updatedList = [...list].filter((list) => plusCurrency.id !== id);
+    let updatedList = [...list].filter((plusCurrency) => plusCurrency.id !== id);
     setList(updatedList);
   }
 

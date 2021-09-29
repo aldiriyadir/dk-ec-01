@@ -39,8 +39,9 @@ Constraints
     Docker for deployment 6 hours
 
 Related Problems
-    Css: 
-        https://javascript.plainenglish.io/css-learn-to-style-react-forms-with-css-2ce72c67c66f
+    List Card: 
+        https://www.youtube.com/watch?v=EbnmosN64JQ
+    
     Build A Currency Converter In React:
         https://www.youtube.com/watch?v=XN5elYWiSuw&t=673s
 
